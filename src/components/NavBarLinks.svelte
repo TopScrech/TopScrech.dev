@@ -34,7 +34,7 @@
     </div>
 
     <div class="nav-item">
-        <img src={spm} alt="Библ иотеки" />
-        <a href="/spm">Библ иотеки</a>
+        <img src={spm} alt="Библиотеки" />
+        <a href="/spm">Библиотеки</a>
     </div>
 </nav>
