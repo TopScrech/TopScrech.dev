@@ -1,1 +1,1 @@
-Goida
+Goida v kvadrate
